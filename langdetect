@@ -1,0 +1,4 @@
+import langdetect
+
+input=input("Enter any text")
+print(langdetect.detect())
